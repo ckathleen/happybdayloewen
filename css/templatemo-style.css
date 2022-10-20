@@ -349,6 +349,7 @@ nav {
 .portfolio-item img {
   width: 100%;
   overflow: hidden;
+  max-height: 775px;
 }
 
 .portfolio-item .thumb {
